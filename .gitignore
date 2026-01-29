@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env.local
+.DS_Store
+*.log
+.venv/
+__pycache__/
+*.pyc
+ffmpeg-8.0.1/
+deploy.bat
+deploy-to-vps.sh
